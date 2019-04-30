@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+$baseTexture 	"models\weapons\v_models\snip_m200\scope"
+$bumpmap 	"models\weapons\v_models\snip_m200\scope_n"
+
+$phong "1"
+$phongboost "2"
+$phongalbedoboost "40"
+$phongfresnelranges "[.8 .8 1]"
+$phongexponent 12
+$phongalbedotint "1"
+$phongdisablehalflambert "1"
+
+}
+

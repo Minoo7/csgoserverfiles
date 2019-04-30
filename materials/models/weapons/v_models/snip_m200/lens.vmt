@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$baseTexture "models\weapons\v_models\snip_m200\Lens"
+$bumpmap "models\weapons\v_models\snip_m200\Lens_n"
+$normalmapalphaenvmapmask  "1" 
+$phong "1"
+$phongdisablehalflambert "1"
+$phongBoost "1"
+$phongExponent "200"
+$phongTint "[ .8 1 .9 ]"
+$phongFresnelRanges "[.2 .2 1]"	
+$envmap "env_cubemap"
+$envmapfresnel "1"
+$envmaptint		"[ .4 .5 .4 ]"
+
+ }
