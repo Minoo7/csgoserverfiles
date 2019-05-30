@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kodua/bloat/zed_bloat_d_albino2"
+	"$bumpmap" "models/player/custom_player/kodua/bloat/zed_bloat_n"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/custom_player/kodua/bloat/zed_bloat_s"
+	"$phongboost" "6"
+	"$phongfresnelranges" "[0.7 2 1]"
+	"$PhongAlbedoTint" "1"
+
+	"$surfaceprop" "metal"
+	"$model" "1"
+	"$nodecal" "1"
+	"$halflambert" "0"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "33"
+	"$rimlightboost" "4"
+	"$rimmask" "1"
+
+	"$envmap" "env_cubemap" 
+	"$envmaptint" "[0.02 0.02 0.01]"
+
+	"$detail" "models/player/custom_player/kodua/shared/detail_metal"
+	"$detailscale" "15"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "0"
+}

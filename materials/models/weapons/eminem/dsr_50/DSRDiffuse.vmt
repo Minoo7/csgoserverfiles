@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\weapons\eminem\dsr_50\DSRDiffuse"
+	"$bumpmap" 			"models\weapons\eminem\dsr_50\DSR_n"
+	"$phongexponenttexture"		"models\weapons\eminem\dsr_50\DSR_s"
+	"$nocull"				"1"
+
+	"$halflambert" 			"1"
+	"$phong" 			"1"
+	"$basemapalphaphongmask"		"1"
+	"$phongfresnelranges" 		"[0.5 1 0.5]"
+	"$phongexponent" 			"60"
+	"$phongboost" 			"1"
+	"$phongalbedotint" 			"1"
+}

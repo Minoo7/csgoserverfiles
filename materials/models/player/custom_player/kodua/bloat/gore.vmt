@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/custom_player/kodua/shared/meat"
+	"$bumpmap" "models/player/custom_player/kodua/shared/meat_n"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/custom_player/kodua/shared/meat_s"	
+	"$phongexponent" "50"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[2 1 1]"
+	"$PhongAlbedoTint" "1"
+}
